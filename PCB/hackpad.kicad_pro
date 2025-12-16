@@ -503,7 +503,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "hackpad.step",
+      "step": "../RS_Hackpad-V1/PCB/hackpad.step",
       "svg": "",
       "vrml": ""
     },
